@@ -1,0 +1,1 @@
+This is an unmodified fork of greeeen-dev/natsumi-browser, hosted for convenience. All credit goes to the original authors. See LICENSE for details.
